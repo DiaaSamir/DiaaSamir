@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diaa Elrahman Samir Abdelsalam</h1>
+<h1 align="center">Hi 👋, I'm Diaa</h1>
 <h3 align="center">A passionate Backend Developer who loves challenges and solving complex problems</h3>
 
 <p align="center">
