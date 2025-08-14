@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer who loves challenges and solving complex problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&center=true&vCenter=true&width=500&lines=Backend+Developer;Problem+Solver;Always+learning+new+things;Future+Fullstack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer+with+a+passion+for+challenges;Turning+complex+problems+into+elegant+solutions;Mastering+the+art+of+scalability+and+performance;Future+Fullstack+Engineer+🚀;Always+learning,+always+building" alt="Typing SVG">
 </p>
 
 ---
@@ -23,10 +23,21 @@
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaSamir&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiaaSamir&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiaaSamir&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiaaSamir&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
